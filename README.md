@@ -2,11 +2,10 @@
 
 ## 使用方法
 
-./WeChatVoiceDownloader.exe <包含音频的微信文章 url>  <保存文件名>
+### 编辑 download.txt 文件，添加要下载的微信公众号文章链接（包含音频）
 
-比如：
-
-./WeChatVoiceDownloader.exe https://mp.weixin.qq.com/s/fnQrM7tJelhR3ggNkYIGfQ di.mp3
+### 运行
+./WeChatVoiceDownloader.exe
 
 ## 説明
 
