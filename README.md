@@ -7,7 +7,7 @@
 ### 运行
 ./WeChatVoiceDownloader.exe
 
-download.txt 中所有文章链接的音频都会逐一下载，文件名为 1.mp3, 2.mp3, 3.mp3 等
+download.txt 中所有文章链接的音频都会逐一下载，文件名为 1.mp3, 2.mp3, 3.mp3, 以此类推
 
 ## 説明
 
